@@ -1,0 +1,9 @@
+step1: install vmware workstation with license from Rivan.
+step 2 login 
+root
+password
+C1sc0123
+1st command
+uname -arm -r /etc/udev/rules.d/70-persistent-net.rules
+y
+reboot
